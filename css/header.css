@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 35px;
+}
+
+#sitelogo { 
+    margin-right: auto;
+}
+
+
+.navsub {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+
+}
+
+.navsub a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+nav a:hover {
+    padding-top: 15px;
+    border-top: 2px solid blue;
+}
+
