@@ -1,7 +1,7 @@
 .bloc-footer{
+    font-family: 'Raleway';
     width: 100%;
     background: var(--main-bg-color);
-    height: 300px;
     display: flex;
     padding-top: 40px;
     margin-left: 0;
